@@ -1,0 +1,13 @@
+{
+  "n_rows_used": 50000,
+  "n_features": 78,
+  "final_g_loss": 1.5823601484298706,
+  "final_d_loss": 0.7369565963745117,
+  "class_counts": {
+    "BENIGN": 31900,
+    "DOS HULK": 16578,
+    "DOS GOLDENEYE": 726,
+    "DOS SLOWLORIS": 399,
+    "DOS SLOWHTTPTEST": 397
+  }
+}
