@@ -1,0 +1,6 @@
+{
+  "n_samples_used": 50000,
+  "final_g_loss": 4.808082580566406,
+  "final_d_loss": 0.04739717021584511,
+  "approx_fid_pca": 4.877640478398557
+}
